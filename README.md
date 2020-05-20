@@ -1,4 +1,4 @@
-# Masters-Project
+# Data Analysis and Machine Learning Algorithms for Climate Modeling through Cloud Data
 As a part of Gordon Group at CMU, my task involves developing machine learning algorithms to tune the hyperparameters in existing climate models to improve their efficacy.
 A general workflow is:
 ![Workflow adopted for the approach](https://github.com/yashgokhale/Masters-Project/blob/master/workflow.PNG)
