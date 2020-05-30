@@ -13,3 +13,4 @@ Summary of files:
 5. KAZRARSCL_20110514: Analysis of KAZRARSCL Data
 6. Williams Plots: Basic Analysis of Radar Data 
 7. CDCCalculation_Analysis: Correlating Cloud Droplet Concentration through two correlations from the parameters obtained through Data_Collection_CDC.ipynb which is stored in CDC_calculations.csv
+8. Correlations: Testing Efficacy of Machine Learning Model correlations
